@@ -1,0 +1,7 @@
+C:\Users\Matthieu\source\repos\projetsAJCformation\projetObserver\obj\Debug\projetObserver.csprojAssemblyReference.cache
+C:\Users\Matthieu\source\repos\projetsAJCformation\projetObserver\obj\Debug\projetObserver.csproj.CoreCompileInputs.cache
+C:\Users\Matthieu\source\repos\projetsAJCformation\projetObserver\bin\Debug\projetObserver.exe.config
+C:\Users\Matthieu\source\repos\projetsAJCformation\projetObserver\bin\Debug\projetObserver.exe
+C:\Users\Matthieu\source\repos\projetsAJCformation\projetObserver\bin\Debug\projetObserver.pdb
+C:\Users\Matthieu\source\repos\projetsAJCformation\projetObserver\obj\Debug\projetObserver.exe
+C:\Users\Matthieu\source\repos\projetsAJCformation\projetObserver\obj\Debug\projetObserver.pdb
