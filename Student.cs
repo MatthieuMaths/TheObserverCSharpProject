@@ -30,6 +30,8 @@ namespace NSModel
 
         public Professor Prof
         {
+            // this fait référence à l'objet/l'instance Professor
+
             get { return this.prof;  }
 
             set { this.prof = value; }
