@@ -9,12 +9,13 @@ namespace NSUser
 {
     class Test
     {
+        // classe de test avec la méthode Test1
         static void Main(string[] args)
         {
-            test1();
+            Test1();
         }
 
-        static void test1()
+        static void Test1()
         {
             Professor p1 = new Professor("Prof1");
             Student s1 = new Student("Student1");
@@ -28,7 +29,7 @@ namespace NSUser
             p1.Abonner(s1);
             p1.Abonner(s2);
 
-            p1.NoteProf = 10;
+            p1.NoteProf = 12;
 
             Console.WriteLine(s1);
             Console.WriteLine(s2);
